@@ -15,8 +15,8 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 ```
 /*
 Program to implement Rat in a Maze.
-Developed by: ASHWIN KUMAR S
-Register Number: 212222240013
+Developed by: LOKESH RAHUL V V
+Register Number: 212222100024
 */
 ```
 ```
